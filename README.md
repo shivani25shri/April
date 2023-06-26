@@ -1,2 +1,2 @@
 # April
-This project recongises all voices and turn then into texr and acy as an alexa
+The "Alexa Voice Command Project: YouTube Opener and Joke Teller" is a voice-controlled application that allows users to open YouTube and request jokes using voice commands through an Alexa-enabled device. It involves speech recognition, YouTube integration, joke generation, natural language processing, and integration with the Alexa Skills Kit. The project aims to provide a seamless and entertaining user experience by enabling users to interact with Alexa and perform tasks effortlessly through voice commands.
